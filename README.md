@@ -37,6 +37,8 @@ This project is a continuation of the AirBnB Clone (version 2), focusing on [ins
   2. `count(self, cls=None)`: Counts the number of objects in storage matching the given class. If no class is passed, returns the count of all objects in storage.
 - Added corresponding tests in `tests/test_models/test_engine/test_db_storage.py` and `tests/test_models/test_engine/test_file_storage.py`.
 
+## API implementation
+
 ## Dependencies
 - Flask: `$ pip3 install Flask`
 - [Any other dependencies]
