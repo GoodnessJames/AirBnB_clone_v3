@@ -40,6 +40,7 @@ This project is a continuation of the AirBnB Clone (version 2), focusing on [ins
 ## API implementation
 ## Status of your API
 - created API structure with Flask
+- Implememted the state endpoint
 
 ## Dependencies
 - Flask: `$ pip3 install Flask`
