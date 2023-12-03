@@ -38,6 +38,8 @@ This project is a continuation of the AirBnB Clone (version 2), focusing on [ins
 - Added corresponding tests in `tests/test_models/test_engine/test_db_storage.py` and `tests/test_models/test_engine/test_file_storage.py`.
 
 ## API implementation
+## Status of your API
+- created API structure with Flask
 
 ## Dependencies
 - Flask: `$ pip3 install Flask`
