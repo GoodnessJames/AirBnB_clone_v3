@@ -1,3 +1,3 @@
 Project Title: AirBnB clone - RESTful API
 
-Tabl
+Table of content
