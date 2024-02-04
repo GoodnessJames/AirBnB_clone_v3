@@ -1,6 +1,6 @@
-Project Title: AirBnB clone - RESTful Ai
+# AirBnB clone - RESTful API
 
-# AirBnB Clone v3
+# AirBnB Clone Version 3
 
 ## Introduction
 This project is a continuation of the AirBnB Clone (version 2), focusing on [insert specific improvements or contributions].
@@ -28,7 +28,7 @@ This project is a continuation of the AirBnB Clone (version 2), focusing on [ins
 - Test files follow the naming convention `test_*.py`.
 - Unit tests use the `unittest` module.
 - Run tests using `python3 -m unittest discover tests` or individually by file.
-- Ensure all current test passed and new test for each feature of improved
+- Ensure all current tests passed and new tests for each improved feature.
 
 ## Storage Improvement
 ### DBStorage and FileStorage
@@ -40,7 +40,7 @@ This project is a continuation of the AirBnB Clone (version 2), focusing on [ins
 ## API implementation
 ## Status of your API
 - created API structure with Flask
-- Implememted the state endpoint
+- Implemented the state endpoint
 
 ## Dependencies
 - Flask: `$ pip3 install Flask`
