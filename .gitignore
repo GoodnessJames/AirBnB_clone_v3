@@ -1,3 +1,4 @@
 __pycache__
+api_copy/*
 *.json
 7-dump.sql
